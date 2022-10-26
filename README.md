@@ -1,6 +1,4 @@
 # Questions
-(CS50: AI PROJECT)
-
 An AI to answer questions.
 
 ```cmd
